@@ -1,2 +1,2 @@
-# the-nano-sports-web
+# The Nano Sports Website
 My first website!
